@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1585831220/ut-common-utils.iml" filepath="$PROJECT_DIR$/.idea/modules/-1585831220/ut-common-utils.iml" group="ut-common-utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1585831220/ut-common-utils_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1585831220/ut-common-utils_main.iml" group="ut-common-utils" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1585831220/ut-common-utils_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1585831220/ut-common-utils_test.iml" group="ut-common-utils" />
+      <module fileurl="file://$PROJECT_DIR$/ut-revamp-vendor-service.iml" filepath="$PROJECT_DIR$/ut-revamp-vendor-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ut-revamp-vendor-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ut-revamp-vendor-service_main.iml" group="ut-revamp-vendor-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ut-revamp-vendor-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ut-revamp-vendor-service_test.iml" group="ut-revamp-vendor-service" />
+    </modules>
+  </component>
+</project>
